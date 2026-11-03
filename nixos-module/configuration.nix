@@ -35,7 +35,7 @@
 
   stylix.enable = true;
   stylix.polarity = "dark";
-  stylix.image = "${inputs.ojuny-desktop.outPath}/lib/wallpapers/everforest.png";
+  stylix.image = "${inputs.ojuny-desktop.outPath}/lib/wallpapers/preset-default.png";
   stylix.base16Scheme = "${pkgs.base16-schemes}/share/themes/everforest-dark-hard.yaml";
 
   stylix.fonts.monospace.name = "CaskaydiaCove Nerd Font";

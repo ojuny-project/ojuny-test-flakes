@@ -15,7 +15,7 @@
     };
 
     ojuny-desktop = {
-      url = "github:SDG-Den/ojuny-desktop";
+      url = "github:ojuny-project/ojuny-desktop";
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.home-manager.follows = "home-manager";
       inputs.stylix.follows = "stylix";
